@@ -18,7 +18,9 @@ $> java -jar scopeapp-jz.jar 1 10
 
 ## Parameters
 The JAR requires 2 parameters to work
-> scopeapp-jz.jar <1|2> <height>
+```
+ scopeapp-jz.jar <1|2> <height>
+```
 - First (Mandatory). Indicate what kind of program will be run
   - 1 = Draw a Christmas Tree
   - 2 = Draw a X
