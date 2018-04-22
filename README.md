@@ -8,6 +8,8 @@
 > git clone https://github.com/ferzac/scopeapp-jz
 
 ## To run
+- Compile the code
+> mvn clean install
 - Go to **target** folder
 - Using java command execute the file scopeapp-jz.jar
 ```
