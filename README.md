@@ -2,6 +2,7 @@
 ## Requirements
 - JDK 1.8.0_25
 - maven 3.2.1
+- git client
 
 ## To Install
 - Clone the repository
