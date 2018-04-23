@@ -10,6 +10,9 @@
 ## To run
 - Compile the code
 > mvn clean install
+
+   **Note**: To run just the Junit test use the command.
+ > mvn test
 - Go to **target** folder
 - Using java command execute the file scopeapp-jz.jar
 ```
